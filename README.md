@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sarawutpe
-- 👀 I’m codeing with
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m codeing with React JavaScript TypeScript PHP
+- 🌱 I’m currently learning react native
 
 <!---
 sarawutpe/sarawutpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
